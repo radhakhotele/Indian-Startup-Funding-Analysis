@@ -1,8 +1,7 @@
 # Indian-Startup-Funding-Analysis
 "Decoding where India’s startup money really flows 💰📊"
-🚀 Data-driven deep dive into Indian startup funding trends – uncovering who invests, where the money flows, and which industries dominate.  
 
-A data storytelling project that uncovers **where the money flows in Indian startups** – who invests, which industries boom, and how funding trends shift over time.  
+🚀 A data storytelling project that uncovers **where the money flows in Indian startups** – who invests, which industries boom, and how funding trends shift over time.  
 ---
 
 ## 🔥 Highlights  
